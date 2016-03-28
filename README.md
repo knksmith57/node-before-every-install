@@ -41,6 +41,11 @@ Remember, there isn't any _guarantee_ that the packages resolved by this module 
 subsequent `npm install`. This is a serial operation and things could change in between operations.
 
 
+## ?
+Questions / comments / concerns? --> [@knksmith57][4]
+
+
 [1]: https://github.com/npm/npm/issues/8283#issuecomment-103751107
 [2]: https://github.com/npm/npm/blob/v3.8.5/lib/install.js#L163
 [3]: ./worker.js
+[4]: https://twitter.com/knksmith57
