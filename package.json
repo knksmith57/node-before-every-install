@@ -1,0 +1,31 @@
+{
+  "name": "before-every-install",
+  "version": "0.0.0",
+  "description": "resolve npm dependencies and examine package metadata _before_ zero-day scripts are downloaded onto your machine",
+  "keywords": [
+    "npm",
+    "preinstall",
+    "dependencies",
+    "hook",
+    "metadata"
+  ],
+  "author": "Kyle Smith <knksmith57@gmail.com>",
+  "repository": {
+    "url": "https://github.com/knksmith57/node-before-every-install",
+    "type": "git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "dependencies": {
+    "bluebird": "^3.3",
+    "debug": "^2.2",
+    "npm": "3.8.5"
+  },
+  "devDependencies": {
+    "standard": "^6.0"
+  },
+  "license": "MIT"
+}
