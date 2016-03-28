@@ -1,6 +1,6 @@
 {
   "name": "before-every-install",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "resolve npm dependencies and examine package metadata _before_ zero-day scripts are downloaded onto your machine",
   "keywords": [
     "npm",
